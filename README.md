@@ -23,11 +23,11 @@
 ##安装
 节点服务器：
 
-    wget -N --no-check-certificate https://github.com/FunctionClub/SSMGR-Bash/raw/master/node.sh && bash node.sh
+    wget -N --no-check-certificate https://github.com/qingleer/SSMGR-Bash/raw/master/node.sh && bash node.sh
 
 主控服务器：
 
-    wget -N --no-check-certificate https://github.com/FunctionClub/SSMGR-Bash/raw/master/master.sh && bash master.sh
+    wget -N --no-check-certificate https://github.com/qingleer/SSMGR-Bash/raw/master/master.sh && bash master.sh
     
 ##感谢
 
